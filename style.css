@@ -249,3 +249,7 @@ h1 {
     grid-row-end: span 2;
   }
 }
+video {
+  min-width: 100%;
+  min-height: 100%;
+}
