@@ -208,6 +208,12 @@ h1 {
 .item:nth-of-type(42n) {
   background-image: url("img/45.jpg");
 }
+.item:nth-of-type(43n) {
+  background-image: none;
+}
+.item:nth-of-type(44n) {
+  background-image: none;
+}
 
 .item:after {
   content: "";
