@@ -202,9 +202,6 @@ h1 {
 .item:nth-of-type(40n) {
   background-image: url("img/43.png");
 }
-.item:nth-of-type(41n) {
-  background-image: url("img/44.jpg");
-}
 .item:nth-of-type(42n) {
   background-image: url("img/45.jpg");
 }
